@@ -1,0 +1,183 @@
+{
+  "hullName": "Skull",
+  "hullId": "LTA_Skull",
+  "hullSize": "CRUISER",
+  "spriteName": "graphics/LTA/ships/Derelict/LTA_Skull_Drone.png",
+  "style": "LOW_TECH",
+  "height": 238,
+  "width": 245,
+  "center": [130, 125],
+  "collisionRadius": 172,
+  "shieldCenter": [-6, 7.5],
+  "shieldRadius": 162,
+  "viewOffset": 0,
+  "builtInMods": [
+    "automated"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "MEDIUM",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 135,
+      "angle": 45,
+      "locations": [22, 62]
+    },
+    {
+      "id": "WS0002",
+      "size": "MEDIUM",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 135,
+      "angle": -67.5,
+      "locations": [38, -101]
+    },
+    {
+      "id": "WS0003",
+      "size": "LARGE",
+      "type": "COMPOSITE",
+      "mount": "TURRET",
+      "arc": 135,
+      "angle": -22.5,
+      "locations": [69, -80]
+    },
+    {
+      "id": "WS0004",
+      "size": "LARGE",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 135,
+      "angle": 180,
+      "locations": [-82, -27]
+    },
+    {
+      "id": "WS0005",
+      "size": "LARGE",
+      "type": "BALLISTIC",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 0,
+      "locations": [95, 50]
+    },
+    {
+      "id": "WS0006",
+      "size": "LARGE",
+      "type": "BALLISTIC",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 0,
+      "locations": [95, 8]
+    },
+    {
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 112,
+      "angle": 135.5,
+      "locations": [-56, 81]
+    },
+    {
+      "id": "WS0008",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": 90,
+      "locations": [2, 125]
+    },
+    {
+      "id": "WS0009",
+      "size": "MEDIUM",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": 90,
+      "locations": [-36, 126]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-124, -54.5],
+      "length": 100,
+      "width": 24,
+      "angle": 180,
+      "contrailSize": 24,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-124, -33],
+      "length": 100,
+      "width": 24,
+      "angle": 180,
+      "contrailSize": 24,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-124, -12],
+      "length": 100,
+      "width": 24,
+      "angle": 180,
+      "contrailSize": 24,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-117, 43],
+      "length": 100,
+      "width": 24,
+      "angle": 180,
+      "contrailSize": 24,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-67, -79.5],
+      "length": 108.5,
+      "width": 21,
+      "angle": 180,
+      "contrailSize": 21,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-125, 12],
+      "length": 150,
+      "width": 45,
+      "angle": 180,
+      "contrailSize": 45,
+      "style": "LOW_TECH"
+    }
+  ],
+  "bounds": [
+    -123.5, -60,
+    -124, 19,
+    -101, 28.5,
+    -117, 41.5,
+    -114.5, 50.5,
+    -89.5, 53.5,
+    -53, 94,
+    -48.5, 126,
+    6, 126.5,
+    8, 118.5,
+    52, 71,
+    79, 71.5,
+    101, 66,
+    101, -8,
+    111, -13.5,
+    112, -61.5,
+    96.5, -62,
+    97.5, -86,
+    87.5, -100.5,
+    62, -100,
+    53.5, -113.5,
+    -4.5, -110.5,
+    -5, -115,
+    -29, -113.5,
+    -30, -109.5,
+    -52, -109.5,
+    -53.5, -89.5,
+    -65, -88.5,
+    -66.5, -71,
+    -107, -69.5,
+    -108, -62
+  ]
+}
