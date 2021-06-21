@@ -1,0 +1,2 @@
+trail,projectile,sprite,minLength,fadeIn,duration,fadeOut,sizeIn,sizeOut,colorIn,colorOut,opacity,textLength,textScroll,distance,dispersion,drift,fadeOnFadeOut,angleAdjustment,additive,velocityIn,velocityOut,randomVelocity,angle,rotationIn,rotationOut,randomRotation,renderBelowExplosions
+LTA_trails_nixie,LTA_nixie_shot,trails_nixie,1,0,0.07,0,25,25,"[255,250,225]","[255,128,0]",1,-1,0,0,0,1,TRUE,TRUE,TRUE,0,0,0,0,0,0,false,true
